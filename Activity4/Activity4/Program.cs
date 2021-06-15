@@ -10,6 +10,9 @@ namespace Activity4
             Console.WriteLine("Emily Berger");
             Console.WriteLine("University of Wisconsin-Madison");
             Console.WriteLine("Hug Coupon");
+            Console.WriteLine("Kyle Hekkers");
+            Console.WriteLine("BCHS");
+            Console.WriteLine("Yes");
         }
     }
 }
