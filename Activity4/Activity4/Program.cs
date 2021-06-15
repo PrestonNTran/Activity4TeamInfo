@@ -10,7 +10,6 @@ namespace Activity4
             Console.WriteLine("Emily Berger");
             Console.WriteLine("University of Wisconsin-Madison");
             Console.WriteLine("Hug Coupon");
-            Console.WriteLine("Kyle Hekkers");
             Console.WriteLine("BCHS");
             Console.WriteLine("Yes");
             Console.WriteLine("Anubhav Parida");
@@ -19,6 +18,8 @@ namespace Activity4
             Console.WriteLine("Ryan Flatley");
             Console.WriteLine("BCHS");
             Console.WriteLine("A gift card with no money on it");
+            Console.WriteLine("I want atleast 1mil for retribution");
+
         }
     }
 }
