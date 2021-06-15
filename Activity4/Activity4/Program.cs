@@ -13,6 +13,9 @@ namespace Activity4
             Console.WriteLine("Kyle Hekkers");
             Console.WriteLine("BCHS");
             Console.WriteLine("Yes");
+            Console.WriteLine("Anubhav Parida");
+            Console.WriteLine("Brookfield East");
+            Console.WriteLine("Socks");
         }
     }
 }
