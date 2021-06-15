@@ -7,6 +7,9 @@ namespace Activity4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Emily Berger");
+            Console.WriteLine("University of Wisconsin-Madison");
+            Console.WriteLine("Hug Coupon");
         }
     }
 }
